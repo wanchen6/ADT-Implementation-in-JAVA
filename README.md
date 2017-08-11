@@ -3,7 +3,7 @@ The package includes the implementation of some basic ADTs in Java. Check here f
 
 1. Double linked list
 2. Binary search tree
-3. Minimun bianry heap
+3. Minimum binary heap
 4. Splay tree
 5. Basic Directed graph with topological sort
 6. Dijkstra's Single Source Shortest Path Algorithm
